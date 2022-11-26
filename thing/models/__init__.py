@@ -1,1 +1,0 @@
-from thing_model import Thing
